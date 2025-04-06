@@ -1,0 +1,7 @@
+./api/.env
+./Backend/.env
+./Backend/package.json
+./Client/.env
+./Client/package.json
+./Client/package-lock.json
+*.env
